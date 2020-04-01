@@ -24,6 +24,8 @@ http://tennc.github.io/webshell
 
 license : GPL v3
 
+test DPR
+
 ## Download link
 Check github releases. Latest:
 
